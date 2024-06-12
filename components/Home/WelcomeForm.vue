@@ -331,10 +331,6 @@ export default {
 				border: none;
 
 			}
-
-			&:hover &-span {
-				// color: white;
-			}
 		}
 
 		&__info {
@@ -385,7 +381,6 @@ export default {
 			flex-direction: column-reverse;
 			align-items: center;
 
-			&__content {}
 		}
 	}
 

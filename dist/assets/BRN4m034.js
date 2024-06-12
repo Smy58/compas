@@ -1,1 +1,0 @@
-/* empty css        */import{_ as t,c as e,I as s,o as a}from"./CXoaCG2I.js";const c={components:{}},n={class:"layout"};function r(o,p,_,l,d,f){return a(),e("div",n,[s(o.$slots,"default")])}const m=t(c,[["render",r]]);export{m as default};
